@@ -15,6 +15,7 @@ nav = [
   { "Markdown in 5min" = "markdown.md" },
   { "Obtener site" = "get-site.md" },
   { "Using Git & Github" = "trabajando-con-git.md" },
+  { "Tema Visual" = "tema-visual.md" },
 ]
 
 # extra_css = ["stylesheets/extra.css"]
