@@ -1,3 +1,7 @@
+---
+icon: lucide/git-branch
+---
+
 # Git y Github
 
 Git es un sistema de control de versiones que permite guardar y controlar los cambios realizados en un proyecto.
